@@ -1,0 +1,14 @@
+.profile {
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.profile h2 {
+    margin-bottom: 15px;
+}
+
+.profile p {
+    margin: 5px 0;
+}
